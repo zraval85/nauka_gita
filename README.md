@@ -9,4 +9,4 @@ Zmiany w eksperymencie
 
     if (isAwesome){
       return true
-    }
+    }Zmiany
